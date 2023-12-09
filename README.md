@@ -1,5 +1,5 @@
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Banjirsultana90)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Banjirsultana90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/banjir-sultana-641679142//)  
 ### Hi there 👋, my name is Banjir Sultana
 #### I am a web developer
 ![I am a web developer](https://i.ibb.co/wgq0PxK/banjir-sultana-web-developer.png)
@@ -13,6 +13,7 @@ Skills:   REACT / JS / HTML / CSS/Node.js/Express/ MongoDB
 - 👯 I’m looking to collaborate on github 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/banjir-sultana-641679142//)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Banjirsultana90)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -23,5 +24,4 @@ Skills:   REACT / JS / HTML / CSS/Node.js/Express/ MongoDB
 ![GitHub metrics](https://metrics.lecoq.io/Banjirsultana90)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Banjirsultana90)  
-
 

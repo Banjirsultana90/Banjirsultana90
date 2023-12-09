@@ -5,7 +5,9 @@
 
  I'm Banjir Sultana, an aspiring full-stack developer fueled by curiosity and a passion for crafting digital experiences. My journey began with a fascination for front-end technologies like HTML, CSS, and JavaScript, which led me into the captivating world of React for dynamic web applications. Eager to explore the back-end realm, I've been diving into Node.js, Express, and MongoDB to round out my skills.
 
-Skills:   REACT / JS / HTML / CSS/Node.js/Express/ MongoDB
+Skills: ![HTML](https://img.shields.io/badge/HTML-5-red)
+    - ![CSS](https://img.shields.io/badge/CSS-3-blue)
+    - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 - 🔭 I’m currently working on student 
 - 🌱 I’m currently learning Node.js 

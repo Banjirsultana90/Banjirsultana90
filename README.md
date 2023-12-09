@@ -22,6 +22,13 @@ Skills:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Banjirsultana90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/feed/)  
+# Brand-shop-project
+
+## Usage
+- [Live Demo](https://brand-shop-firebase-project.web.app/?fbclid=IwAR0LyPYAelicWQmtgE_WLaqrpUq1Dz4WwBBqDhieSvXUVeNL1ZYnS0G7yhs)
+-
+- [Project Repository](https://github.com/Banjirsultana90/assignmentof-brand-shop-project)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Banjirsultana90)](https://github.com/ryo-ma/github-profile-trophy)
 

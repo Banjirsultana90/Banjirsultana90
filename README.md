@@ -6,7 +6,7 @@
  I'm Banjir Sultana, an aspiring full-stack developer fueled by curiosity and a passion for crafting digital experiences. My journey began with a fascination for front-end technologies like HTML, CSS, and JavaScript, which led me into the captivating world of React for dynamic web applications. Eager to explore the back-end realm, I've been diving into Node.js, Express, and MongoDB to round out my skills.
 
 Skills:
-<div style="display: flex;">
+<div style="display: flex; gap-5">
   <img src="https://i.ibb.co/2PTZZf6/download-1.jpg" height="30" alt="HTML">
   <img src="https://i.ibb.co/9rfvwmZ/images-1.png" height="30" alt="CSS">
   <img src="https://i.ibb.co/g3BBGR2/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo-thum.png" height="30" alt="JavaScript">

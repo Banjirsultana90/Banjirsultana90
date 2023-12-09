@@ -22,12 +22,26 @@ Skills:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Banjirsultana90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/feed/)  
-# Brand-shop-project
+### Brand-shop-project
 
-## Usage
+#### Usage
 - [Live Demo](https://brand-shop-firebase-project.web.app/?fbclid=IwAR0LyPYAelicWQmtgE_WLaqrpUq1Dz4WwBBqDhieSvXUVeNL1ZYnS0G7yhs)
--
-- [Project Repository](https://github.com/Banjirsultana90/assignmentof-brand-shop-project)
+- [Frontend Repository](https://github.com/Banjirsultana90/assignmentof-brand-shop-project)
+- [Server Repository](https://github.com/Banjirsultana90/brand-shop-server)
+
+### e-commerce-project
+
+#### Usage
+- [Live Demo](https://ecommerce-project-b67b1.web.app/?fbclid=IwAR2Q2-1vnJll0Xr4O-x8X0oKR7G1XicKwAsqf9IDd1CnMBCenOVhSv1Sm54)
+- [Frontend Repository](https://github.com/Banjirsultana90/ecommerce-frontend)
+- [Server Repository](https://github.com/Banjirsultana90/ecommerce-project-server)
+
+### Survey-project
+
+#### Usage
+- [Live Demo](https://survey-project-aadef.web.app/?fbclid=IwAR0ZgWijqnvDrZrxbHcQFcmtm8mhjl4yJaSamjBc64f6894jqHalf4e7TSs)
+- [Frontend Repository](https://github.com/Banjirsultana90/survey-project-frontend)
+- [Server Repository](https://github.com/Banjirsultana90/survey-project-server)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Banjirsultana90)](https://github.com/ryo-ma/github-profile-trophy)

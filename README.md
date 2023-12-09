@@ -12,7 +12,7 @@ Skills:   REACT / JS / HTML / CSS/Node.js/Express/ MongoDB
 - 👯 I’m looking to collaborate on github 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Banjirsultana90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/banjir-sultana-641679142//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Banjirsultana90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/feed/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Banjirsultana90)](https://github.com/ryo-ma/github-profile-trophy)
 

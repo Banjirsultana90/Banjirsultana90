@@ -6,13 +6,14 @@
  I'm Banjir Sultana, an aspiring full-stack developer fueled by curiosity and a passion for crafting digital experiences. My journey began with a fascination for front-end technologies like HTML, CSS, and JavaScript, which led me into the captivating world of React for dynamic web applications. Eager to explore the back-end realm, I've been diving into Node.js, Express, and MongoDB to round out my skills.
 
 Skills:
-- [<img src="https://i.ibb.co/2PTZZf6/download-1.jpg" height="30" alt="HTML">](#)
-- [<img src="https://i.ibb.co/9rfvwmZ/images-1.png" height="30" alt="CSS">](#)
-- [<img src="https://i.ibb.co/g3BBGR2/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo-thum.png" height="30" alt="JavaScript">](#)
-- [<img src="https://i.ibb.co/Snd4KjP/png-clipart-react-javascript-angularjs-ionic-github-text-logo-thumbnail.png" height="30" alt="React">](#)
-- [<img src="https://i.ibb.co/x1j7zZ6/png-clipart-node-js-javascript-express-js-server-side-scripting-front-and-back-ends-node-js-angle-lo.png" height="30" alt="Node.js">](#)
-- [<img src="https://i.ibb.co/qDzjt8m/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" height="30" alt="MongoDB">](#)
-
+<div style="display: flex;">
+  <img src="https://i.ibb.co/2PTZZf6/download-1.jpg" height="30" alt="HTML">
+  <img src="https://i.ibb.co/9rfvwmZ/images-1.png" height="30" alt="CSS">
+  <img src="https://i.ibb.co/g3BBGR2/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo-thum.png" height="30" alt="JavaScript">
+  <img src="https://i.ibb.co/Snd4KjP/png-clipart-react-javascript-angularjs-ionic-github-text-logo-thumbnail.png" height="30" alt="React">
+  <img src="https://i.ibb.co/x1j7zZ6/png-clipart-node-js-javascript-express-js-server-side-scripting-front-and-back-ends-node-js-angle-lo.png" height="30" alt="Node.js">
+  <img src="https://i.ibb.co/qDzjt8m/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" height="30" alt="MongoDB">
+</div>
     
 
 - 🔭 I’m currently working on student 

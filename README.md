@@ -1,7 +1,7 @@
-(https://i.ibb.co/wgq0PxK/banjir-sultana-web-developer.png)
+![I am a web developer](https://i.ibb.co/wgq0PxK/banjir-sultana-web-developer.png)
 ### Hi there 👋, my name is Banjir Sultana
 #### I am a web developer
-![I am a web developer]
+
 
  I'm Banjir Sultana, an aspiring full-stack developer fueled by curiosity and a passion for crafting digital experiences. My journey began with a fascination for front-end technologies like HTML, CSS, and JavaScript, which led me into the captivating world of React for dynamic web applications. Eager to explore the back-end realm, I've been diving into Node.js, Express, and MongoDB to round out my skills.
 
